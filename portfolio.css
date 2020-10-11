@@ -1,0 +1,49 @@
+.navbar-nav {
+    margin-left: 55em;
+ }
+.about-me img{
+    float: left;
+    margin: 1em;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    height: 850px;
+    background-image: url(../Bootstrap/Assests/background.jpg);
+}
+
+.container{
+    background-color:white;
+    width: 50%;
+    height: 650px;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+
+    }
+
+    .photo1 {
+        
+        width: 53%;
+        margin: 2em;
+    }
+
+    .photo2 {
+        float: left;
+        width: 53%;
+        margin: 2em;
+    }
+
+    .photo3 {
+        
+        width: 53%;
+        margin: 2em;
+    
+    }
+
+    .photo4 {
+        
+        width: 53%;
+        margin: 2em;
+    }
